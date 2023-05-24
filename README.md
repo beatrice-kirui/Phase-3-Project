@@ -70,9 +70,7 @@ Based on the AUC scores above,the models can be ranked in terms of perfomance:
 
 Based on the AUC scores, the Random Forest model appears to be the best-performing model among the four, followed by Logistic Regression, SVM, and KNN.
 
-### Evaluation
-
-### EVALUATION OF THE FINAL MODEL
+### Evaluation of the Final Model.
 
   After refining and evaluating several models, the Random Forest classifier was selected as the final model for this problem.
 
@@ -86,4 +84,6 @@ Based on the AUC scores, the Random Forest model appears to be the best-performi
  In conclusion, the Random Forest model exhibited strong accuracy and precision, making it a reliable classifier. However, the model's lower recall indicates that it may not identify all positive instances accurately. It is crucial to consider the specific requirements and priorities of the problem at hand when interpreting these evaluation metrics and deciding on the final model. Further refinements could focus on improving the model's recall without sacrificing its high accuracy and precision.
 
 
-    Conclusion
+### Conclusion
+
+In conclusion after analysis the dataset provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
